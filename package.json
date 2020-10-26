@@ -1,11 +1,12 @@
 {
-  "name": "shopping-list-starter",
+  "name": "shop-webpack-project",
   "version": "1.0.0",
-  "description": "#### Created for the Thinkful EI Program.",
+  "description": "Please reference the startup instructions within your curriculum.",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server", 
-    "build": "webpack --mode production"
+    "start": "webpack-dev-server",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
